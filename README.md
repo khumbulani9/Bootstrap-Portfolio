@@ -8,7 +8,7 @@
 * [contact Link url to github repository](#contact-link-url-to-github-repository)
 
 ## Description of the assignment
-For this assignment we are using Bootstrap to recreate our first assignment, which initially, was created by utilising html and css. Furthermore, this assignment is to showcase our skills and knowledge, as this is very important with regards to determining suitability for a position.
+For this assignment we are using Bootstrap to recreate our first assignment, which initially, was created by utilising html and css. Furthermore, this assignment is for showcasing our skills and knowledge, as this is very important with regards to determining our suitability for a position.
 
 ## Acceptance criteria
 
