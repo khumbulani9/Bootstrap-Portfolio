@@ -54,9 +54,11 @@ A footer section
 * Deploy your new Bootstrap-powered portfolio to GitHub Pages.
 
 ## Link URL to deployed app on GitHub
-![https://khumbulani9.github.io/Bootstrap-Portfolio/](https://khumbulani9.github.io/Bootstrap-Portfolio/)
+![https://khumbulani9.github.io/Bootstrap-Portfolio/](https://khumbulani9.github.io/Bootstrap-Portfolio/) 
 
 ## Website Page screenshot link URL to GitHub repository
+(![Web capture_19-12-2023_11134_127 0 0 1](https://github.com/khumbulani9/Bootstrap-Portfolio/assets/146132836/c4774424-1894-4991-bcb0-90a3624b88aa)
+
 
 ## Contact-link URL to GitHub repository
 ![https://github.com/khumbulani9/Bootstrap-Portfolio/blob/main/README.md](https://github.com/khumbulani9/Bootstrap-Portfolio/blob/main/README.md)
