@@ -4,9 +4,53 @@ footer {
   height: 60px;
   line-height: 60px;
   background-color: #ac4040;
-  margin-top: 50px;
+  margin-top: 60px;
 }
 
-.card {
+.card {text-align: left;
 
+}
+
+h1 {
+  font-size: 100px;
+}
+
+h2 {
+  font-size: 100px;
+}
+
+p {
+  font-size: 100px;
+}
+
+p {
+  font-size: x-large;
+  margin-left: 0px;
+  margin-bottom: 2rem;
+  text-align-last: auto;
+  flex-wrap: wrap;
+} 
+
+.body {
+  background-color: rgb(23, 236, 236);
+}
+.m-3 {
+  margin: 1rem!important;
+}
+@media (min-width: 768px)
+.col-md-4 {
+    flex: 0 0 auto;
+    width: 27.333333%;
+} 
+body {
+  margin: 0;
+  font-family: var(--bs-body-font-family);
+  font-size: var(--bs-body-font-size);
+  font-weight: var(--bs-body-font-weight);
+  line-height: var(--bs-body-line-height);
+  color: var(--bs-body-color);
+  text-align: var(--bs-body-text-align);
+  background-color: #3781cc;
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: transparent;
 }
