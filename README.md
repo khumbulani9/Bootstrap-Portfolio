@@ -1,6 +1,7 @@
 # UX-and-Advanced-CSS-Bootstrap-portfolio
 
 ## **_Table of contents_** 
+
 * [description of the assignment](#description-of-the-assignment)
 * [acceptance criteria](#acceptance-criteria)
 * [link url to deployed app on github](#link-url-to-deployed-app-on-github)
@@ -8,6 +9,7 @@
 * [contact Link url to github repository](#contact-link-url-to-github-repository)
 
 ## Description of the assignment
+
 For this assignment we are using Bootstrap to recreate our first assignment, which initially, was created by utilising html and css. Furthermore, this assignment is for showcasing our skills and knowledge, as this is very important with regards to determining our suitability for a position.
 
 ## Acceptance criteria
@@ -54,7 +56,7 @@ A footer section
 * Deploy your new Bootstrap-powered portfolio to GitHub Pages.
 
 ## Link URL to deployed app on GitHub
-![https://khumbulani9.github.io/Bootstrap-Portfolio/](https://khumbulani9.github.io/Bootstrap-Portfolio/)
+
 https://khumbulani9.github.io/Bootstrap-Portfolio/
 
 ## Website Page screenshot link URL to GitHub repository
@@ -62,7 +64,9 @@ https://khumbulani9.github.io/Bootstrap-Portfolio/
 
 
 ## Contact-link URL to GitHub repository
+
 ![https://github.com/khumbulani9/Bootstrap-Portfolio/blob/main/README.md](https://github.com/khumbulani9/Bootstrap-Portfolio/blob/main/README.md)
 
 ## Reference
+
 ![https://bootcampspot.instructure.com/courses/5651/assignments/67060?module_item_id=1145487](https://bootcampspot.instructure.com/courses/5651/assignments/67060?module_item_id=1145487) 
