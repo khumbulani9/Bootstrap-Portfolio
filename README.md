@@ -14,7 +14,7 @@ For this assignment we are using Bootstrap to recreate our first assignment, whi
 
 ## Acceptance criteria
 
-* Using Bootstrap, recreate your portfolio site with the following items:
+*  By using Bootstrap, to recreate your portfolio site with the following items:
 
 * A navigation bar
 
