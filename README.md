@@ -60,7 +60,9 @@ A footer section
 [https://khumbulani9.github.io/UX-and-Advanced-CSS-Bootstrap-portfolio/] 
 
 ## Website Page screenshot link URL to GitHub repository
-![Web capture_19-12-2023_11134_127 0 0 1](https://github.com/khumbulani9/Bootstrap-Portfolio/assets/146132836/c4774424-1894-4991-bcb0-90a3624b88aa)
+
+![image](https://github.com/khumbulani9/UX-and-Advanced-CSS-Bootstrap-portfolio/assets/146132836/fb6360b8-5e66-498d-b71c-26060665585f)
+
 
 
 ## Contact-link URL to GitHub repository
